@@ -12,4 +12,5 @@ _    _      _ _                  _ _      _       _
                                         |__/
      */
 
+    //osoba1 lubi placki i wprowadza zmiane
 }
