@@ -14,5 +14,13 @@ _    _      _ _                  _ _      _       _
 
     //osoba1 lubi placki i wprowadza zmiane
 
+
+    //|
+    //|
+    //v
+    // https://www.youtube.com/watch?v=eaEMSKzqGAg
+
+
+
     //( ͡° ͜ʖ ͡°)
 }
