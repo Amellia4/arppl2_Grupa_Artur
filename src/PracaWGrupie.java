@@ -13,4 +13,6 @@ _    _      _ _                  _ _      _       _
      */
 
     //osoba1 lubi placki i wprowadza zmiane
+
+    //( ͡° ͜ʖ ͡°)
 }
