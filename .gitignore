@@ -1,0 +1,5 @@
+# Dodawaj zawsze przed pierwszym komitem
+.idea/
+
+#wszystkie pliki ktorych nazwa/rozszezenie konczy sie .iml
+*.iml
